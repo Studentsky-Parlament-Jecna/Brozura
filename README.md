@@ -20,11 +20,10 @@ Tvoříme brožuru, kde může každý nový Ječňák najít odpovědi na vše,
 
 # Jak přispět
 
-## Jak přispět skrze github
-1) Vytvoř si účet na [GitHubu](www.github.com)
-2) Vytvoř si vlastní kopii tohoto repozitáře
-5) Vytvoř pull request se změnami
-6) Počkej na schválení
+## Github
+1) Vytvoř si vlastní kopii tohoto repozitáře
+2) Vytvoř pull request se změnami
+3) Počkej na schválení
 
 > **Nápověda**
 > - [Jak vytvořit pull request (dokumentace)](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)
@@ -32,11 +31,15 @@ Tvoříme brožuru, kde může každý nový Ječňák najít odpovědi na vše,
 
 
 
-## Jak přispět skrze discord
-1) Vytvoř si účet na [Discordu](www.discord.com)
-2) Připoj se na [Discordový server](https://discord.gg/KkdNSGdSv9)
-3) Přečti si `pravidla`
-4) Přidej se do kanálu `#brozura`
-5) Pošli nám svůj návrh
+## Discord
+Pokud neumíš pracovat s git, nevadí! 
+Můžeš se připojit na [Discord](https://discord.gg/KkdNSGdSv9) a napsat nám do `#brozura`, co bys chtěl(a) změnit. Budeme rádi, když nám pomůžeš!
+
+## Jiné způsoby
+Nelíbí ani jedna z těchto možností? Můžeš nám jednoduše napsat na jakoukoliv ze sociálních sítí:
+- [Facebook](https://www.facebook.com/parlamentjecna)
+- [Instagram](https://www.instagram.com/jecnaparlament/)
+
+Nebo napiš na email: [jecnaparlament@gmail.com](mailto:jecnaparlament.com)
 
 
