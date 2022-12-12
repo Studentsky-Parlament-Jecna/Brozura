@@ -6,7 +6,7 @@
 Může to být frustrující a zmatené, proto bychom rádi zmínili to nejdůležitější, tj. za kým jít, když potřebuješ tohle a tamto, co dělat když se něco stane nebo když se potřebuješ uvolnit z výuky. 
 ## Pípání příchodů a odchodů - „píchačky“
 Ve škole je zaveden systém, kdy si každý musí pípnout příchod i odchod svou vlastní přístupovou kartou. Je to ten nejefektivnější způsob, jak zvýšit bezpečnost školy a jejího majetku, tak jako způsob pro monitorování docházky studentů. Když si nepípneš, může se stát, že budeš brán jako nepřítomný(á) a budeš mít neomluvené hodiny. Zároveň to funguje jako tvůj klíč do školy, dveře se bez pípnutí nedají otevřít. Nemusíš na nikoho zvonit, stačí si pípnout. Proto když ti karta přestane správně fungovat, neváhej a ihned vyhledej správce ICT pana Setničku!
-Pro vchod jsou určeny dva terminály, hlavní je pod zvonky zvenku dveří. Druhý vedlejší je pak až uvnitř budovy u prvních dveří před malými schody vpravo. Pro odchod jsou taktéž dva terminály, oba jsou brány jako hlavní – jeden je přímo na dveřích zevnitř a druhý je po levé straně na zdi, taková velká krabka s displejem. 
+Pro vchod jsou určeny dva terminály, hlavní je pod zvonky zvenku dveří. Druhý vedlejší je pak až uvnitř budovy u prvních dveří před malými schody vpravo. Pro odchod jsou taktéž dva terminály, oba jsou brány jako hlavní – jeden je přímo na dveřích zevnitř a druhý je po levé straně na zdi, taková velká krabice s displejem. 
 ## Omlouvání nepřítomnosti
 Samozřejmostí je, že pokud zameškáš nějaké hodiny, je nutné je omluvit. Na začátku školního roku dostaneš Omluvný list – papír, do kterého se vždy napíše datové rozmezí od kdy do kdy jsi chyběl(a), důvod absence a pak podpis tvého zákonného zástupce, popřípadě lékaře. Několik připomínek:
 
