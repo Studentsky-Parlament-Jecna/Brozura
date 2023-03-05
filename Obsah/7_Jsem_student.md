@@ -19,11 +19,11 @@ Zastupuje předsedu, když předseda chybí. Vyřazen z týdenní služby.
 Seznam žáků je rozdělen na 2 skupiny. Z každé skupiny se abecedně vybere jeden žák na týdenní službu. Výjimku má předseda a místopředseda, kteří jsou vyřazeni ze služby.
 
 Povinnosti služby: 
-- Péče o třídnici (přenášení z/do učeben)
-- Úklid učebny 
-- Kontrola učebny - pokud je někde něco rozbitého, služba to nahlásí 
-- Mazání tabule, kontrola stavu kříd a zajištění nových (lze získat v 1. patře u paní Třískové v kanceláři školy)
-- Pomoc s odvedením žáků k paní Budské, pokud je jim špatně a potřebují opustit školu (zejména, pokud by dotyčný žák měl opustit školu během vyučování)
+1. Péče o třídnici (přenášení z/do učeben)
+2. Úklid učebny 
+3. Kontrola učebny - pokud je někde něco rozbitého, služba to nahlásí 
+4. Mazání tabule, kontrola stavu kříd a zajištění nových (lze získat v 1. patře u paní Třískové v kanceláři školy)
+5. Pomoc s odvedením žáků k paní Budské, pokud je jim špatně a potřebují opustit školu (zejména, pokud by dotyčný žák měl opustit školu během vyučování)
 * **Nástěnkář:** <br/> 
 Stará se o stav nástěnky a její obsah. 
 * **Pokladník:** <br/> 
