@@ -18,7 +18,7 @@ Zastupuje předsedu, když předseda chybí. Vyřazen z týdenní služby.
 * **Týdenní služba:** <br/> 
 Seznam žáků je rozdělen na 2 skupiny. Z každé skupiny se abecedně vybere jeden žák na týdenní službu. Výjimku má předseda a místopředseda, kteří jsou vyřazeni ze služby.
 
-   Povinnosti služby: 
+   *Povinnosti služby:* 
 1. Péče o třídnici (přenášení z/do učeben)
 2. Úklid učebny 
 3. Kontrola učebny - pokud je někde něco rozbitého, služba to nahlásí 
